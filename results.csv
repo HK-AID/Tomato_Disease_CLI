@@ -1,0 +1,2 @@
+Image,Predicted Class,Confidence,Bacterial Spot,Early Blight,Late Blight,Leaf Mold,Septoria Leaf Spot,Spider Mites,Target Spot,Yellow Leaf Curl Virus,Mosaic Virus,Healthy
+sample_leaf.jpeg,Late Blight,0.9945,6.103810301283374e-05,0.005038033705204725,0.994499683380127,8.925507586354797e-07,0.00033925403840839863,1.1103207242513236e-08,3.38375975843519e-05,2.474734628776787e-06,1.8198445104644634e-05,6.6200682340422645e-06
